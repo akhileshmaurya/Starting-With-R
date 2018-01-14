@@ -1,2 +1,2 @@
 # Starting-With-R
-Repo have some random use-case/examples with R-script
+Repo have some use-case/examples with R-script
